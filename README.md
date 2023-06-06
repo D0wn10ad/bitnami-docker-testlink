@@ -1,3 +1,7 @@
+# Updating/Merging of works of multiple people's work
+
+As a preparation to use bitnami images as a base but with 2.0.0-php8.1 branch of testlink code
+
 # DEPRECATION NOTICE
 
 This image has been deprecated, and will no longer be maintained nor updated.
